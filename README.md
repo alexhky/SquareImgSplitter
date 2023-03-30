@@ -1,2 +1,2 @@
 # SquareImgSplitter
-Splits a square image into 
+Python 3 program that divides a square image into four squares of equal size.
